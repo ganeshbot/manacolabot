@@ -1,0 +1,2 @@
+# manacolabot
+hubot demo
